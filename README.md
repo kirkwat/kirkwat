@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 * Check out some of the projects I have been working on.
 
-* I am an undergraduate student at Southern Methodist University majoring in **Computer Science** with minors in **Math** and **Data Science**.
+* I am an undergraduate student at Southern Methodist University majoring in **Computer Science** and **Math** with a minor in **Data Science**.
 
 * I'm currently learning about **machine learning**, **artificial intelligence**, and **frontend development**. 
 
