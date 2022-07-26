@@ -28,6 +28,7 @@ Welcome to my GitHub!
 
 <br />
 <br />
+<br />
 
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
 [<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
