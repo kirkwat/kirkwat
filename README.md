@@ -2,13 +2,13 @@
 
 Welcome to my GitHub!
 
-* [Take a look at my website!](https://kirkwatson.net/)
-
-* Check out some of the projects I have been working on.
-
 * I am an undergraduate student at Southern Methodist University majoring in **Computer Science** and **Math** with a minor in **Data Science**.
 
 * I'm currently learning about **machine learning**, **artificial intelligence**, and **frontend development**. 
+
+* [Take a look at my website!](https://kirkwatson.net/)
+
+* Check out some of the projects I have been working on.
 
 * You can reach me at: klwatson@smu.edu
 
